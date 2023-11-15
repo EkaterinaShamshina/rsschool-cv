@@ -1,4 +1,7 @@
 <h1 align="center">Shamshina Ekaterina</h1>
+
+<img src="https://avatars.githubusercontent.com/u/93329440?v=4" title="myphoto" alt="photo" width="100" height="100"/>
+
 <h2 align="center">Beginner Front-End Developer</h2>
 <h3 align="center">Adaptive, cross-browser layout of web sites with clean valid code from your PSD/Figma layout from the end of 2021 year</h3>
 
@@ -47,4 +50,6 @@
     <h4>Additional education:</h4>
     <p>1.Advanced course on layout from https://frontendblok.com/</p>
     <p>2.National Research Tomsk State University - Web developer - website development and promotion: Zero to mastery</p>
+    <h4>in-process education:</h4>
+    <p>JavaScript/Front-end 2023Q4 course on RS-School platform</p>
 </div>
