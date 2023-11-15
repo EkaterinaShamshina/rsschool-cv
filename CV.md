@@ -1,7 +1,7 @@
 <h1 align="center">Shamshina Ekaterina</h1>
-
-<img src="https://avatars.githubusercontent.com/u/93329440?v=4" title="myphoto" alt="photo" width="200" height="200" align="center" style="border-radius:100%" />
-
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/93329440?v=4" title="myphoto" alt="photo" width="200" height="200" />
+</div>
 <h2 align="center">Beginner Front-End Developer</h2>
 <h3 align="center">Adaptive, cross-browser layout of web sites with clean valid code from your PSD/Figma layout from the end of 2021 year</h3>
 
