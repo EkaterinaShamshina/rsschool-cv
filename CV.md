@@ -41,3 +41,10 @@
 ---
 
 ### :woman_student: My Education:
+<div>
+    <h4>Higher education:</h4>
+    <p>Lomonosov Moscow State University - Faculty of Physics</p>
+    <h4>Additional education:</h4>
+    <p>1.Advanced course on layout from https://frontendblok.com/</p>
+    <p>2.National Research Tomsk State University - Web developer - website development and promotion: Zero to mastery</p>
+</div>
