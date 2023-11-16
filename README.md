@@ -1,1 +1,1 @@
-*[My CV]([https://EkaterinaShamshina.github.io/rsschool-cv/cv](https://github.com/EkaterinaShamshina/rsschool-cv/blob/gh-pages/CV.md)https://github.com/EkaterinaShamshina/rsschool-cv/blob/gh-pages/CV.md)
+*[My CV](https://github.com/EkaterinaShamshina/rsschool-cv/blob/gh-pages/CV.md)https://github.com/EkaterinaShamshina/rsschool-cv/blob/gh-pages/CV.md)
